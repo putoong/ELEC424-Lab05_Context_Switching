@@ -1,0 +1,40 @@
+Lab05: Context Switching
+<PUT NAMES HERE>
+
+Part 1: 5
+
+Q1. How many timers do you use in lab4? Is there any difference if you use 1 
+    timer and 2 timers for scheduling? 
+
+Q2. Suppose there are task1 and task2, task1 has higher priority than task2, by
+    manual scheduling what will happen if task1 needs to be executed while task2
+    is running?
+
+Q3. What is MSP and PSP, what are they used for? 
+
+Q4. What is SysTick and PendSV? 
+
+Q5. What context contents are saved during a context switch, by hardware or by 
+    software?
+
+Part 2: 2
+
+Q6. Why? Why can't a C program conduct a context switch? 
+
+Q7. What are the potential problems to use SysTick to conduct context switching?
+
+Part 3: 3
+
+Q8. What are the advantages of PendSV over SysTick to invoke a context switching? 
+
+Q9. Think about how you can make the scheduling easier than manual scheduling by 
+    doing a context switching? 
+
+Q10. What would you do to improve your code to add priorities for each tasks?
+
+Contribution
+
+Indicate the percentage work contributed by each partner below (should add up to 100%). Needless to say, replace PARTNER1/2 with names.
+
+<PARTNER1>: 
+<PARTNER2>: 
