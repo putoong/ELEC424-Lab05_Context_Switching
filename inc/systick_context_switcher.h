@@ -32,7 +32,5 @@ typedef struct  {
 void SysTick_Handler(void);
 void create_task(void (*p) (void ), void *, int);
 void run_task(void);
-void switch_thread_context (void);
-static inline void * read_PSP (void);
 
 #endif

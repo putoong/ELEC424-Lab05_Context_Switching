@@ -256,7 +256,7 @@ void main (void){
   current = 1;
     //task_blink_led();
     //task_spin_motors();
-  __enable_irq();
+  
   run_task();
 	while (1) {
   }
